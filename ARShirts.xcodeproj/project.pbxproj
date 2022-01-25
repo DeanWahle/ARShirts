@@ -16,6 +16,7 @@
 		F97B7BA12796624F00B19BA4 /* ARShirtsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F97B7BA02796624F00B19BA4 /* ARShirtsTests.swift */; };
 		F97B7BAB2796624F00B19BA4 /* ARShirtsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F97B7BAA2796624F00B19BA4 /* ARShirtsUITests.swift */; };
 		F97B7BAD2796624F00B19BA4 /* ARShirtsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F97B7BAC2796624F00B19BA4 /* ARShirtsUITestsLaunchTests.swift */; };
+		F97B7BBA2796679F00B19BA4 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = F97B7BB92796679E00B19BA4 /* art.scnassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F97B7BA62796624F00B19BA4 /* ARShirtsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ARShirtsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F97B7BAA2796624F00B19BA4 /* ARShirtsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARShirtsUITests.swift; sourceTree = "<group>"; };
 		F97B7BAC2796624F00B19BA4 /* ARShirtsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARShirtsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F97B7BB92796679E00B19BA4 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; name = art.scnassets; path = ../../../Desktop/art.scnassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				F97B7B8D2796624C00B19BA4 /* ViewController.swift */,
 				F97B7B8F2796624C00B19BA4 /* Main.storyboard */,
 				F97B7B922796624F00B19BA4 /* Assets.xcassets */,
+				F97B7BB92796679E00B19BA4 /* art.scnassets */,
 				F97B7B942796624F00B19BA4 /* LaunchScreen.storyboard */,
 				F97B7B972796624F00B19BA4 /* Info.plist */,
 			);
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F97B7B962796624F00B19BA4 /* LaunchScreen.storyboard in Resources */,
+				F97B7BBA2796679F00B19BA4 /* art.scnassets in Resources */,
 				F97B7B932796624F00B19BA4 /* Assets.xcassets in Resources */,
 				F97B7B912796624C00B19BA4 /* Main.storyboard in Resources */,
 			);
